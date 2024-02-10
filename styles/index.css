@@ -1,0 +1,1183 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+input {
+    border: none;
+}
+
+body {
+    width: 150rem;
+}
+
+.main-RQq {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background: radial-gradient(54.99% 54.99% at 50% 45.01%, rgba(146, 91, 180, 0.6800000072) 0%, #45006f 100%);
+}
+
+.main-RQq .landing-page-NL5 {
+    box-sizing: border-box;
+    padding: 0rem 5.1rem 1.8rem 5.1rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../assets/landing-page-bg-bg.png');
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq {
+    margin-bottom: 72rem;
+    width: 100%;
+    height: 12.2rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .logo-e2h {
+    width: 17.8841rem;
+    height: 12.2rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .auto-group-hjx2-ah3 {
+    box-sizing: border-box;
+    padding: 3.7rem 0rem 5.2rem 49.716rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.menu-bar-ujK a {
+    text-decoration: none;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .auto-group-hjx2-ah3 .menu-bar-ujK {
+    margin: 0rem 5.4rem 0.2rem 0rem;
+    box-sizing: border-box;
+    padding: 0rem 2.35rem 0rem 0.85rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .auto-group-hjx2-ah3 .menu-bar-ujK .home-RBs {
+    margin-right: 7.85rem;
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Cheque, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .auto-group-hjx2-ah3 .menu-bar-ujK .about-veR {
+    margin-right: 8.05rem;
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Cheque, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .auto-group-hjx2-ah3 .menu-bar-ujK .events-qFb {
+    margin-right: 8.8rem;
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Cheque, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .auto-group-hjx2-ah3 .menu-bar-ujK .contact-us-ZSV {
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #000000;
+    font-family: Cheque, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .top-bar-Hxq .auto-group-hjx2-ah3 {
+    width: 3.3rem;
+    height: 3.3rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .auto-group-xt3i-RUh {
+    margin: 0rem 13.205rem 0rem 14.195rem;
+    width: calc(100% - 27.4rem);
+    height: 16.4rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .landing-page-NL5 .auto-group-xt3i-RUh .t-h-e-f-a-s-h-i-o-n-s-o-c-i-e-t-y-99o {
+    width: 83.8rem;
+    height: 8.3rem;
+    position: absolute;
+    left: 10.8546rem;
+    top: 8.1rem;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #ffffff;
+    font-family: Cheque, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .landing-page-NL5 .auto-group-xt3i-RUh .line-7-Cds {
+    width: 106.4rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0;
+    top: 8.4rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .landing-page-NL5 .auto-group-xt3i-RUh .vnuva-vpm {
+    width: 20.1rem;
+    height: 8.3rem;
+    position: absolute;
+    left: 42.7046rem;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #ffffff;
+    font-family: Cheque, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj {
+    box-sizing: border-box;
+    padding: 8.1rem 0.4rem 8rem 0.4rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb {
+    margin: 0rem 10.5rem 6.3rem 6.6rem;
+    width: calc(100% - 17.1rem);
+    height: 50.9rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .frame-dMo {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .about-Acd {
+    width: 123.2rem;
+    height: 50.8rem;
+    position: absolute;
+    left: 2.9rem;
+    top: 0.1rem;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .about-Acd .auto-group-suuz-VQ1 {
+    margin: 0rem 6.163rem 2rem 46.735rem;
+    width: calc(100% - 52.8981rem);
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .about-Acd .auto-group-suuz-VQ1 .auto-group-fe3n-awF {
+    margin-right: 26.9474rem;
+    width: 28.5384rem;
+    height: 8.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .about-Acd .auto-group-suuz-VQ1 .auto-group-fe3n-awF .line-4-iGm {
+    width: 28.5384rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0;
+    top: 7.6rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .about-Acd .auto-group-suuz-VQ1 .auto-group-fe3n-awF .about-us-EF7 {
+    width: 28rem;
+    height: 8.8rem;
+    position: absolute;
+    left: 0.2692rem;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .about-Acd .auto-group-suuz-VQ1 .logo-6YD {
+    margin-bottom: 1.1rem;
+    width: 14.8161rem;
+    height: 10.6rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-4cbn-uwb .about-Acd .vnuva-the-fashion-society-helps-students-stimulate-the-feelings-of-self-confidence-and-change-the-way-they-view-and-approach-situations-good-fashion-style-represents-what-you-want-to-be-and-similarly-how-you-want-to-be-treated-by-others-it-is-created-in-the-spirit-of-personal-development-to-be-the-best-and-presentable-to-ace-it-with-style-vnuva-brings-fashion-to-our-college-through-various-events-we-aim-to-host-events-that-are-centered-around-personality-development-creative-thinking-building-self-esteem-corporate-dressing-and-expression-through-fashion-zdb {
+    max-width: 123.2rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau {
+    margin: 0rem 10.1rem 8.237rem 10.2rem;
+    width: calc(100% - 20.3rem);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .auto-group-ddug-ytq {
+    margin: 0rem 42.255rem 9.1rem 42.7rem;
+    width: calc(100% - 84.9546rem);
+    height: 8.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .auto-group-ddug-ytq .line-5-tku {
+    width: 37.9454rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0;
+    top: 7.6rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .auto-group-ddug-ytq .our-vision-EJy {
+    width: 32.5rem;
+    height: 8.8rem;
+    position: absolute;
+    left: 2.5rem;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m {
+    width: 100%;
+    height: 39.0627rem;
+    display: flex;
+    column-gap: 2.3rem;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-1-GmT {
+    width: 29rem;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-1-GmT .community-pic-1-dM7 {
+    margin-bottom: 3.1rem;
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 13.623rem;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-1-GmT .auto-group-h8ay-wsb {
+    box-sizing: border-box;
+    padding: 2.2rem 1.4rem 1.663rem 1.4rem;
+    width: 100%;
+    height: 10.9627rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../assets/rectangle-6.png');
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-1-GmT .auto-group-h8ay-wsb .the-college-fashion-society-is-a-dynamic-collective-of-fashion-enthusiasts-3vd {
+    max-width: 24.3rem;
+    text-align: center;
+    font-size: 1.7845rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-2-KNM {
+    width: 29rem;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-2-KNM .community-pic-2-GHb {
+    margin-bottom: 3.1rem;
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 13.623rem;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-2-KNM .auto-group-b3oj-n13 {
+    box-sizing: border-box;
+    padding: 2.2rem 3.95rem 1.663rem 3.85rem;
+    width: 100%;
+    height: 10.9627rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../assets/rectangle-10.png');
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-2-KNM .auto-group-b3oj-n13 .it-provides-a-platform-for-students-passionate-about-style-to-converge-4UM {
+    max-width: 21.2rem;
+    text-align: center;
+    font-size: 1.7845rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-3-Lwf {
+    width: 29rem;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-3-Lwf .community-pic-4-tCV {
+    margin-bottom: 3.1rem;
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 13.623rem;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-3-Lwf .auto-group-qpmn-zWR {
+    box-sizing: border-box;
+    padding: 1.2rem 2.55rem 0.263rem 2.25rem;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../assets/rectangle-8.png');
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-3-Lwf .auto-group-qpmn-zWR .here-we-not-only-appreciate-diverse-styles-but-also-champion-environmental-consciousness-Jn1 {
+    max-width: 24.2rem;
+    text-align: center;
+    font-size: 1.7845rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-4-rww {
+    width: 29rem;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-4-rww .community-pic-3-CF7 {
+    margin-bottom: 3.1rem;
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 13.623rem;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-4-rww .auto-group-avmj-vaR {
+    box-sizing: border-box;
+    padding: 2.2rem 2.25rem 1.663rem 2.15rem;
+    width: 100%;
+    height: 10.9627rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../assets/rectangle-9-k8u.png');
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .vision-sau .frame-30-Y4m .vision-4-rww .auto-group-avmj-vaR .its-not-just-a-society-its-a-nurturing-space-for-friendship-and-fashion-evolution-ci9 {
+    max-width: 24.6rem;
+    text-align: center;
+    font-size: 1.7845rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP {
+    margin: 0rem 5.338rem 8.2rem 10.2rem;
+    width: calc(100% - 15.538rem);
+    height: 44.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .frame-PsK {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 119.2rem;
+    top: 15.1rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK {
+    width: 126.5494rem;
+    height: 44.8rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .auto-group-b3bi-F8q {
+    margin: 0rem 40.327rem 1.7rem 40.522rem;
+    width: calc(100% - 80.8494rem);
+    height: 8.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .auto-group-b3bi-F8q .line-6-MSm {
+    width: 43.8282rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0.6701rem;
+    top: 7.6371rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .auto-group-b3bi-F8q .faculty-mentor-57s {
+    width: 45.7rem;
+    height: 8.8rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .group-4-9Nd {
+    width: 100%;
+    height: 34.3rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .group-4-9Nd .image-12-HDw {
+    margin-right: 3.765rem;
+    width: 36.6844rem;
+    height: 34.3rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .group-4-9Nd .frame-31-oi5 {
+    margin: 2.4rem 0rem 1.7rem 0rem;
+    height: calc(100% - 4.1rem);
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .group-4-9Nd .frame-31-oi5 .dr-apoorva-aggarwal-7yf {
+    margin-bottom: 1.2rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .group-4-9Nd .frame-31-oi5 .best-researcher-awardbvcoe-2018-2019-2020-2021-EYV {
+    margin-bottom: 1rem;
+    max-width: 86.1rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-fwyg-HZP .faculty-mentor-7oK .group-4-9Nd .frame-31-oi5 .exemplary-performance-in-mtechsignal-processing-guru-gobind-singh-indraprastha-university-delhi-in-2015-iiZ {
+    max-width: 85.6rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT {
+    margin: 0rem 9.538rem 0.444rem 9.5rem;
+    width: calc(100% - 19.038rem);
+    height: 80.5562rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .frame-hqP {
+    margin: 0rem 8.938rem 32.494rem 0rem;
+    width: 8.462rem;
+    height: 8.462rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD {
+    margin-right: 13.5083rem;
+    width: 84.7917rem;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .auto-group-anhi-kYm {
+    margin: 0rem 26.292rem 7.6rem 30.9rem;
+    width: calc(100% - 57.1917rem);
+    height: 8.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .auto-group-anhi-kYm .founders-sdP {
+    width: 26.9rem;
+    height: 8.8rem;
+    position: absolute;
+    left: 0.4rem;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .auto-group-anhi-kYm .line-7-yAd {
+    width: 27.6rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0;
+    top: 7.6371rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .frame-34-V8y {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .frame-34-V8y .frame-32-dW5 {
+    margin-bottom: 3.7rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .frame-34-V8y .frame-32-dW5 .image-5-mcH {
+    margin-right: 31.4rem;
+    width: 26.763rem;
+    height: 55.7562rem;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 30.8rem;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .frame-34-V8y .frame-32-dW5 .image-6-5ss {
+    width: 26.6287rem;
+    height: 55.756rem;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 30.8rem;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .frame-34-V8y .frame-33-DDP {
+    margin: 0 3.7958rem;
+    width: calc(100% - 7.5917rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .frame-34-V8y .frame-33-DDP .harsh-vats-MKb {
+    margin-right: 39rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .founder-pQD .frame-34-V8y .frame-33-DDP .kuhu-saxena-g6y {
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-e6pt-bXT .frame-nvh {
+    margin-bottom: 16.8942rem;
+    width: 8.462rem;
+    height: 8.462rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds {
+    margin-right: 6.938rem;
+    width: 136.262rem;
+    height: 240rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-SkM {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 2.2rem;
+    top: 34.1rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-aLm {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 127.8rem;
+    top: 91.9rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-VTj {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 0;
+    top: 103.7rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-RsB {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 31.8rem;
+    top: 189.5rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-ZTb {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 117.5rem;
+    top: 164.2rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-tEy {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 127.8rem;
+    top: 209.1rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-p8d {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 13.8rem;
+    top: 0;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .frame-kY5 {
+    width: 8.462rem;
+    height: 8.462rem;
+    position: absolute;
+    left: 127.8rem;
+    top: 30.7rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu {
+    box-sizing: border-box;
+    padding-top: 0.1rem;
+    width: 120rem;
+    height: 21.2rem;
+    position: absolute;
+    left: 11.4rem;
+    top: 225.8rem;
+    border-top: solid 0.1rem #fbfbfb;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 {
+    box-sizing: border-box;
+    padding: 3.6rem 38.1rem 0rem 38.2rem;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-20-8Yd {
+    margin: 0rem 4.7rem 4.525rem 3.9rem;
+    box-sizing: border-box;
+    padding: 0.0375rem 0;
+    width: calc(100% - 8.6rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-20-8Yd .image-837-S3X {
+    margin-right: 5.8087rem;
+    width: 4.8rem;
+    height: 3.7rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-20-8Yd .arcticons-instagram-NC5 {
+    margin: 0.01rem 6.355rem 0rem 0rem;
+    width: 3.768rem;
+    height: 3.768rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-20-8Yd .arcticons-facebook-tRK {
+    margin: 0rem 5.806rem 0rem 0rem;
+    width: 3.7619rem;
+    height: 3.7578rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-20-8Yd .linkedin-1-1Vw {
+    width: 4.8rem;
+    height: 4.8rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+}
+
+.frame-9s3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-9s3 {
+    margin-bottom: 4.1rem;
+    width: 100%;
+    display: flex;
+    column-gap: 7rem;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-9s3 .home-UuK {
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #fbfbfb;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-9s3 .about-18Z {
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #fbfbfb;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-9s3 .events-kM3 {
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #fbfbfb;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .frame-9s3 .contact-us-VZX {
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #fbfbfb;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .footer-Hnu .auto-group-hd64-p29 .copyright-vnuva-bvp-SDs {
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #fbfbfb;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 {
+    width: 123.7rem;
+    height: 216.7rem;
+    position: absolute;
+    left: 9.8rem;
+    top: 7.5rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-87fs-Gyb {
+    margin: 0rem 2.85rem 4.7rem 3.45rem;
+    width: calc(100% - 6.3rem);
+    height: 17.5rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-87fs-Gyb .line-7-azH {
+    width: 100.2rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 8.55rem;
+    top: 16.2371rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-87fs-Gyb #department-of-electronics-and-communication-engineering-7zD {
+    width: 117.4rem;
+    height: 17.5rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF {
+    margin-bottom: 6.2rem;
+    width: 100%;
+    height: 121.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .vision-dept-Lc5 {
+    width: 122.9rem;
+    height: 24.8rem;
+    position: absolute;
+    left: 0;
+    top: 97rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .vision-dept-Lc5 .auto-group-gpn4-feM {
+    margin: 0rem 51.9rem 2rem 52.6rem;
+    width: calc(100% - 104.5rem);
+    height: 8.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .vision-dept-Lc5 .auto-group-gpn4-feM .line-4-b2D {
+    width: 17.5999rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0.4rem;
+    top: 7.6383rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .vision-dept-Lc5 .auto-group-gpn4-feM .vision-6jf {
+    width: 18.4rem;
+    height: 8.8rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .vision-dept-Lc5 .the-department-aspires-to-be-an-advanced-center-of-learning-by-synergizing-teaching-learning-and-research-to-produce-competent-engineers-capable-of-serving-the-society-Pyf {
+    max-width: 122.9rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .about-dept-dt1 {
+    width: 123.7rem;
+    height: 103.6rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .about-dept-dt1 .auto-group-burc-mzD {
+    margin: 0rem 48.426rem 2rem 46.735rem;
+    width: calc(100% - 95.1616rem);
+    height: 8.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .about-dept-dt1 .auto-group-burc-mzD .line-4-HxZ {
+    width: 28.5384rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0;
+    top: 7.6rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .about-dept-dt1 .auto-group-burc-mzD .about-us-qDP {
+    width: 28rem;
+    height: 8.8rem;
+    position: absolute;
+    left: 0.2692rem;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .auto-group-p3z6-oMF .about-dept-dt1 .the-department-of-electronics-and-communication-engineering-has-an-approved-annual-intake-of-180-students-making-it-the-largest-department-at-bharti-vidyapeeths-college-of-engineering-in-terms-of-professor-and-student-enrollment-the-department-is-proud-of-its-highly-trained-and-qualified-faculty-members-many-of-whom-have-earned-or-are-pursuing-a-phd-in-various-fields-of-electronics-and-communication-engineering-and-are-committed-to-imparting-high-quality-education-the-labs-which-are-created-by-the-teachers-themselves-are-well-equipped-adapt-to-the-needs-of-ambitious-students-and-foster-an-environment-conducive-to-research-and-practical-knowledge-acquisition-a-considerable-number-of-our-talented-students-have-been-hired-by-prestigious-government-and-private-sector-organizations-thus-we-believe-that-our-students-will-be-assets-not-only-to-our-department-and-the-institution-but-also-to-the-nation-at-large-to-encourage-extracurricular-activities-among-students-the-department-has-strong-ties-with-various-professional-chapters-and-cells-the-activities-and-competitions-organized-by-these-communities-allow-students-to-showcase-their-technical-and-fundamental-electronics-skills-8yB {
+    max-width: 123.7rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .mission-dept-xjF {
+    margin-right: 3.7rem;
+    width: 120rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .mission-dept-xjF .auto-group-ee7n-WEy {
+    margin: 0rem 46.9rem 2rem 50.5rem;
+    width: calc(100% - 97.4001rem);
+    height: 8.8rem;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .mission-dept-xjF .auto-group-ee7n-WEy .line-4-coo {
+    width: 22.5999rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 0;
+    top: 7.6208rem;
+    background-color: #ffffff;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .mission-dept-xjF .auto-group-ee7n-WEy .mission-x6y {
+    width: 22.4rem;
+    height: 8.8rem;
+    position: absolute;
+    left: 0.1rem;
+    top: 0;
+    text-align: center;
+    font-size: 6.6rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.main-RQq .auto-group-y3l8-zZj .auto-group-nezi-8Ds .dept-details-9e5 .mission-dept-xjF .dm1-to-prepare-graduates-with-sound-technical-knowledge-and-motivate-them-to-explore-emerging-areas-of-research-dm2-to-create-environment-for-the-development-of-research-and-innovation-activities-dm3-to-build-strong-relationships-with-industry-through-collaborative-partnerships-student-internships-and-research-towards-product-development-dm4-to-instill-ethical-and-professional-values-among-graduates-with-awareness-towards-societal-and-environmental-4A1 {
+    max-width: 120rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.325;
+    color: #ffffff;
+    font-family: Abyssinica SIL, 'Source Sans Pro';
+    flex-shrink: 0;
+}
